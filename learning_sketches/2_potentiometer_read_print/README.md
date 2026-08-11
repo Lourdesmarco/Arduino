@@ -24,7 +24,7 @@ This project reads the variable voltage from a potentiometer using an analog inp
 
 ## Project Structure
 * `2_potentiometer_read_print.ino`: Main Arduino source code.
-* `data/README.md`: Project documentation (this file).
+* `README.md`: Project documentation (this file).
 * `data/Circuit_01.jpg`: Circuit schematic diagram (without breadboard)
 * `data/Circuit_02.webp`: Breadboard schematic diagram view.
 * `data/potentiometer.webp`: Potentiometer terminals explanation.

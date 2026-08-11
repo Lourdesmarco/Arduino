@@ -27,6 +27,6 @@ This project implements the standard Arduino Blink sketch using external compone
 
 ## Project Structure
 * `0_blink.ino`: Main Arduino source code.
-* `data/README.md`: Project documentation (this file).
+* `README.md`: Project documentation (this file).
 * `data/Circuit_01.png`: Circuit schematic diagram (without breadboard, not recommended).
 * `data/Circuit_02.jpeg`: Breadboard schematic diagram view.

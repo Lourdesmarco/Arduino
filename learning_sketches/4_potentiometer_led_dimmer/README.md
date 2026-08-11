@@ -37,6 +37,6 @@ This project reads the analog value from a potentiometer on pin A0 and uses it t
 
 ## Project Structure
 * `4_potentiometer_led_dimmer.ino`: Main Arduino source code.
-* `data/README.md`: Project documentation (this file).
+* `README.md`: Project documentation (this file).
 * `data/Circuit_01.webp`: Breadboard schematic diagram view.
 

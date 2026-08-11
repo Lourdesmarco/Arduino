@@ -30,7 +30,7 @@ void loop() {
   int mapped = map(sensorValue, sensorLow, sensorHigh, 50, 2000);
   
   /* Con la función tone() hago que suene el altavoz */
-  tone(8, mapped, 20);
+  tone(9 , mapped, 20);
 
   delay(10);
 }
